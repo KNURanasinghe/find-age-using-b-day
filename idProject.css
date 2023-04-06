@@ -1,0 +1,56 @@
+.box{
+    background-color: darkslategray;
+    color:aliceblue;
+    border:2px Solid;
+    padding: 30px;
+    width:500px;
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    margin: auto;  
+}
+
+.backgnd{
+    background-color: aqua;
+    padding-top: 40px;  
+}
+
+
+.below{
+    background-color: darkgrey;
+    color:aliceblue;
+    border:2px Solid;
+    padding: 20px;
+    height: 90px;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+    margin-block-start:240px;
+}
+
+
+h3{
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+color: black;
+}
+
+.res{
+    color: rgb(21, 242, 21);
+}
+
+.img1{
+    max-width: 25px;
+    max-height: 25px;
+}
+
+.img2{
+    max-width: 500px;
+    max-height: 500px;
+}
+
+.cal{
+    width: auto;
+    height: auto;
+}
